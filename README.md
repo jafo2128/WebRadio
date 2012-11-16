@@ -19,3 +19,7 @@ The ARM WebRadio is an embedded Internet Radio based on an ARM Cortex-M3 Microco
     * Play Shoutcast/Icecast and RTSP Streams
     * Play audio files from the memory card
     * Alarm Clock
+
+
+## Hardware
+![WebRadio hardware dia](https://github.com/watterott/WebRadio/raw/master/img/hw_dia.png)
