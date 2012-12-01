@@ -23,3 +23,10 @@ The ARM WebRadio is an embedded Internet Radio based on an ARM Cortex-M3 Microco
 
 ## Hardware
 ![WebRadio hardware dia](https://github.com/watterott/WebRadio/raw/master/img/hw_dia.png)
+
+
+## Videos
+[ARM WebRadio test buildup](http://www.youtube.com/watch?v=d3AU1xSci-s)
+[ARM WebRadio v1 prototype](http://www.youtube.com/watch?v=I5wxE6ul4LM)
+[ARM WebRadio v2 demo board](http://www.youtube.com/watch?v=boI7PvBz0HM)
+[ARM WebRadio v3](http://www.youtube.com/watch?v=70_Qk82P8Xw)
