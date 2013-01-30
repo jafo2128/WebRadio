@@ -1,5 +1,6 @@
 # ARM Cortex-M3 WebRadio
-The ARM WebRadio is an embedded Internet Radio based on an ARM Cortex-M3 Microcontroller and VS1053 Audio Codec. The VS1053 can decode various audio formats: Ogg Vorbis, MP3, AAC, WMA, FLAC, WAV, MIDI
+The ARM WebRadio is an embedded Internet Radio based on an ARM Cortex-M3 Microcontroller and VS1053 Audio Codec.
+The VS1053 can decode various audio formats, including Ogg Vorbis, MP3, AAC, WMA, FLAC, WAV, MIDI.
 
 <http://www.watterott.com/en/ARM-WebRadio>
 
